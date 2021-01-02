@@ -14,3 +14,10 @@ In conclusion, streaming data created from files “ Streaming_Linux_process.csv
 
 # Tasks
 * Task 1
+Implement two Apache Kafka producers (one for process and one for memory) to simulate the real-time streaming of the data.
+
+* Task 2
+Implement multiple Apache Kafka consumers to consume the data from task 1.
+
+* Task 3
+Implement Spark Structured Streaming to consume the data from task 1. Also, perform predictive analytics by using a set of pre-trained pipeline models, one for predicting attack in process data, another for predicting attack in memory data.
