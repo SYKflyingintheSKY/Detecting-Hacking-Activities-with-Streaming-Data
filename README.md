@@ -13,3 +13,4 @@ below https://ieee-dataport.org/documents/toniot-datasets .
 In conclusion, streaming data created from files “ Streaming_Linux_process.csv ” and “ Streaming_Linux_memory.csv ” would be used to simulate the process and memory data streamed from cluster 1 for machines with ID of 4, 5, 6, 7, 8
 
 # Tasks
+* Task 1
