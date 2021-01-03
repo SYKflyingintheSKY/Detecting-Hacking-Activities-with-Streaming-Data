@@ -21,3 +21,10 @@ Implement multiple Apache Kafka consumers to consume the data from task 1.
 
 * Task 3 <br>
 Implement Spark Structured Streaming to consume the data from task 1. Also, perform predictive analytics by using a set of pre-trained pipeline models, one for predicting attack in process data, another for predicting attack in memory data.
+
+# Environment
+* Ubuntu 20.04 LTS (Focal Fossa) 
+* Python (3.8) 
+* Jupyter Notebook 
+* Apache Spark (3.0.0) 
+* Apache Kafka (2.5.0) 
