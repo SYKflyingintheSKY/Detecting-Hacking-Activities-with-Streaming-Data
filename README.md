@@ -29,6 +29,6 @@ Implement multiple Apache Kafka consumers to consume the data from task 1.
 * Task 3 <br>
 Implement Spark Structured Streaming to consume the data from task 1. Also, perform predictive analytics by using a set of pre-trained pipeline models, one for predicting attack in process data, another for predicting attack in memory data.
 
-# Points which can be improved
+# Points which could have been improved
 - Making the producer implmentation more dynamic by avoiding hardcoded machine specific variables
 - Task 3.7 b: Better to use machine id in the join itself rather than filtering separately 
